@@ -49,7 +49,7 @@
     "uniqCompNum": 26,
     "versionPublish": "4.10.4",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/initials-128x76.png",
+    "favicon": "@PROJECT_PATH@/assets/images/initials-128x76-1.png",
     "noImageResize": ""
   },
   "pages": {
